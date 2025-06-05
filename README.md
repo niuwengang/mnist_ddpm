@@ -2,6 +2,16 @@
 mnist ddpm
  
 
+# 依赖
+```
+conda create --name mnist_ddpm python=3.9
+conda activate mnist_ddpm
+conda install pytorch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0 
+pip install -r requirements.txt
+```
+
+
+
 ## 改进
 
 
